@@ -5,5 +5,5 @@ Double Degree Master student at [Ensae Paris](https://www.ensae.fr/en/) and [Imp
 I open source some of my projects here. 
 
 Contacts : thomas.aujoux23@imperial.ac.uk
-thomas.aujoux@ensae.fr
-thomas.aujoux@gmail.com
+/ thomas.aujoux@ensae.fr
+/ thomas.aujoux@gmail.com

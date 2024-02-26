@@ -7,7 +7,7 @@ I open source some of my projects here.
 | Project Name | Type      | Year | Description                                  |
 |--------------|-----------|------|----------------------------------------------|
 | Find-My-Friends     | PCA, Non-supervised ML, Clustering   | 2021 | This project aims to create a visual interface similar to a dating app that matches users with groups through a PCA-based algorithm.       |
-| food-classification       | ML, Classifiers   | 2023 | Create a "Multi-Class Classification" using different Machine Learning technics. |
+| Food-classification       | ML, Classifiers   | 2023 | Create a "Multi-Class Classification" using different Machine Learning technics. |
 | Deep-Learning-high-frequency-price-changes      | Deep-Learning | 2024 | Leverages deep learning to predict high-frequency price changes of two US stocks |
 
 Contacts : thomas.aujoux23@imperial.ac.uk

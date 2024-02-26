@@ -15,6 +15,10 @@ I open source some of my projects here.
 | [LTS_Forecasting](https://github.com/Thomasaujoux/LTS_Forecasting) | Time series, ARIMA | 2022| Predict the prices of dairy product in France using linear time series models. | R |
 | [Garch_Model_Assets](https://github.com/Thomasaujoux/Garch_Model_Assets) | GARCH, Régression Linéaire, Hidden Markov Model | 2022| Predict the prices of dairy product in France using linear time series models. | R |
 | [Monte_Carlo_Option_Pricing](https://github.com/Thomasaujoux/Monte_Carlo_Option_Pricing) | MC, Quasi MC, Multi-Level MC | 2023| Compute the price of an Asian option (standard Monte Carlo, Quasi Monte Carlo and Multi-Level Monte Carlo).| Python |
+| [Options-Pricer](https://github.com/Thomasaujoux/Options-Pricer) | Black-Scholes, European options, American options, Asian options | 2022| Exploit the object-oriented programming features of C++.| C++ |
+| [hackaton_sia_Oasis](https://github.com/Thomasaujoux/hackaton_sia_Oasis) | Tezos BlockChain, Web3 | 2023| Coding competition focused on Tezos BlockChain and Web3 organized by Sia Partners. | Solidity |
+| [multiclass_cascade_classifier](https://github.com/Thomasaujoux/multiclass_cascade_classifier) | PyPI Python Package | 2023| Development and implementation part in a functional Python package, accessible from Pypi, of a cascade classifier. | Python |
+
 
 Contacts : thomas.aujoux23@imperial.ac.uk
 / thomas.aujoux@ensae.fr
